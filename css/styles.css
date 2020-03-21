@@ -1,0 +1,1060 @@
+* 
+{
+  border: solid 2px brown;
+}
+/* 
+body {
+  margin: 0px;
+}
+.page
+{
+		position: absolute;
+		width: 100%;
+		height: auto;
+    background-color:rgba(216, 216, 63, 0.384);    
+    display: flex;
+    flex-direction: column;
+
+  } 
+
+section
+{
+    width: 100%;
+    display: flex;    
+    align-items: unset;
+    font-size: 30px;
+    font-weight: bold;   
+  }
+  #menu
+  {
+    width: 100%;
+    height: auto;
+  }
+
+#animaux,#O,#E,#l
+{
+	
+		width: 100%;
+		height: auto;
+  
+    
+  }
+  #vi 
+  {
+    width: 100%;
+    height: 40vw;
+  }
+
+  #ours_page,#elephant_page,#lion_page
+  {
+		filter: drop-shadow(0px 9px 6px rgba(46, 46, 36, 0.741));
+		position: absolute;
+		left: 24.5px;
+		top: 18.5px;
+		overflow: visible;
+    -webkit-text-stroke-width: 0.1vw;
+    -webkit-text-stroke-color:lawngreen;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Stencil Std;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10vw;
+    color: rgba(255,255,255,1);
+  }
+
+
+#Mes_animaux_pr_f_r_s_ 
+{
+		filter: drop-shadow(0px 9px 6px rgba(46, 46, 36, 0.741));
+		position: absolute;
+		left: 24.5px;
+		top: 18.5px;
+    overflow: visible;
+    -webkit-text-stroke-width: 0.1vw;
+    -webkit-text-stroke-color:lawngreen;  
+		white-space: nowrap;
+		text-align: left;
+		font-family: Stencil Std;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 5vw;
+    color: rgba(255,255,255,1);
+  }
+  
+  
+  #Ours
+  {
+	  display: block;
+	  float: right;
+	  border: solid 2px #555;
+	  padding: 2px; 
+	   margin: 20px 20px 20px 20px;
+	  height: 350px;
+	}
+
+#Lion
+{
+  display: block;
+  float: right;
+  border: solid 2px #555;
+  padding: 2px;
+  margin: 20px 20px 20px 20px;
+  height: 350px;
+  }
+
+#Elephent
+{
+  display: block;
+  float: right;
+  border: solid 2px #555;
+  padding: 2px;
+  margin: 20px 20px 20px 20px;
+  height: 350px;
+  }
+ 
+.header 
+{
+    background-color: #FEBC07;
+    height: 400px;  
+    margin: 15px 0px 0px 0px;  
+    
+  }
+
+.content 
+{
+    background-color: #FBF2C6;
+    height: 400px; 
+    margin: 20px 0px 0px 0px;
+    
+  }
+  
+.sign-up 
+{
+    background-color: #F3F3F3;
+    height: 400px; 
+    margin: 20px 0px 0px 0px;
+    
+  }
+  
+
+  .feature-1 
+  {
+      background-color: #F5CF8E;
+      width: 100%;
+      height: auto;    
+      display: flex;   
+      flex-direction: row; 
+      justify-content: space-around;
+      align-items: center;   
+      font-size: 15px;
+      font-weight: normal; 
+      margin: 20px 0px 0px 0px;
+    }
+   
+
+footer
+ {
+  background-color: #B28A00;
+      height: 100px;        
+      display: flexbox;
+      justify-content: flex-end;
+      align-items: center;
+      flex-direction: row;
+      font-size: 15px;
+      font-weight: normal;
+      margin: 20px 0px 0px 0px;
+  }
+
+  p
+  {
+    width: 100%;
+    /* white-space: nowrap; */
+		/* text-align: left;
+		font-family: 'Times New Roman', Times, serif;
+		font-style: normal;
+		font-weight: normal;
+    font-size: 20px;
+    text-justify: distribute ;
+  }
+ 
+  
+
+    
+ 
+  
+ 
+  #AFPA
+  { 
+      border: solid 2px #555;
+      padding: 2px;  
+      width: 90%;
+      height: auto; 
+      margin-left: 10px;
+    } 
+
+
+  #findus
+  {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;  
+    width: 40%;
+    height: 40vw;
+    margin: 5vw 0 5vw 0 ;
+    background-color: rgb(206, 105, 11);
+  
+  
+    }
+
+  #regForm
+  {
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    align-items: center;   
+    width: 40%;
+    height: 40vw;
+    margin: 0;
+    background-color: rgb(206, 105, 11);
+      
+  
+    } 
+
+.tab
+  {
+    width: 80%;
+    height: auto;
+  }
+
+  .no {
+    width: 95%;
+    height: auto;
+  }
+  .yes
+  {
+    width: 100%;
+    height: 40vw;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #nextBtn
+  {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    
+  }  */
+/* #nextBtn
+{
+  display: flex;
+  justify-content: flex-end;
+ 
+} */
+
+/* #RS
+{    
+  display: block;
+  float: right;
+  border: solid 2px #555;
+  padding: 2px;
+  margin: 5px 5px 5px 5px;
+  }
+  
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 6;
+		--web-view-id: Web_1920___6;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920___6;
+  } */
+  
+
+
+  /* Printemps ---------------------------------- */
+
+
+
+	/* * {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	} */
+	/* #Web_1920___6 {
+		position: absolute;
+		width: 1920px;
+		height: 3000px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 6;
+		--web-view-id: Web_1920___6;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true; */
+	/* }
+	#paysage {
+		position: absolute;
+		width: 1920px;
+		height: 974.4px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1485 {
+		position: absolute;
+		overflow: visible;
+		width: 683px;
+		height: 270px;
+		left: 83px;
+		top: 58px;
+	}
+	#Mes_animaux_pr_f_r_s_ {
+		filter: drop-shadow(0px 9px 6px rgba(46, 46, 36, 0.741));
+		position: absolute;
+		left: 86.5px;
+		top: 82.5px;
+		overflow: visible;
+		width: 677px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Stencil Std;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 91px;
+		color: rgba(255,255,255,1);
+	}
+	#ASSOSIATION_INTERNATIONALLE_PO {
+		position: absolute;
+		left: 102px;
+		top: 299px;
+		overflow: visible;
+		width: 647px;
+		white-space: nowrap;
+		line-height: 39px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#Text_Layout {
+		position: absolute;
+		width: 100%;
+		height: auto;
+		left: 248px;
+		top: 1118px;
+		overflow: visible;
+	}
+	#Groupe_4 {
+		position: absolute;
+		width: 80%;
+		height: auto;
+		left: 0px;
+		top: 162px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet__co {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 40%;
+		height: auto;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(169,134,101,1);
+	}
+	#Culpa_qui_officia_deserunt_mol {
+		position: absolute;
+		left: 722px;
+		top: 0px;
+		overflow: visible;
+		width: 40%;
+		height: auto;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(169,134,101,1);
+	}
+	#PRESENTATION_DE_L_ASSOCIATION {
+		position: absolute;
+		left: 0px;
+		top: 32px;
+		overflow: visible;
+		width: 1426px;
+		height: 97px;
+		line-height: 50px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: Georgia;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(169,134,101,1);
+	}
+	#June_2__2017 {
+		position: absolute;
+		left: 674px;
+		top: 0px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(169,134,101,1);
+	}
+	#Video {
+		position: absolute;
+		width: 1126px;
+		height: 517px;
+		left: 397px;
+		top: 1440px;
+		overflow: visible;
+	}
+	#Text {
+		position: absolute;
+		width: 1186px;
+		height: 287px;
+		left: 368px;
+		top: 2430px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_c {
+		position: absolute;
+		left: 0px;
+		top: 99px;
+		overflow: visible;
+		width: 1187px;
+		height: 120px;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#LOREM_IPSUM_DOLOR_AMET_CONSECT {
+		position: absolute;
+		left: 0px;
+		top: 267px;
+		overflow: visible;
+		width: 1181px;
+		height: 20px;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#Our_Team_ {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 190px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Georgia;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(158,130,103,1);
+	}
+	#Footer {
+		position: absolute;
+		width: 1920px;
+		height: 242px;
+		left: 0px;
+		top: 2758px;
+		overflow: visible;
+	}
+	.Base {
+		overflow: visible;
+		position: absolute;
+		width: 1920px;
+		height: 192px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#CONTACT_US_ORDERING___PAYMENT_ {
+		position: absolute;
+		left: 1467px;
+		top: 34px;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		line-height: 26px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(158,130,103,1);
+	}
+	#ABOUT_ADOBE_XD_KIT_WORK_WITH_U {
+		position: absolute;
+		left: 1735px;
+		top: 36px;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		line-height: 26px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(158,130,103,1);
+	}
+	#Subscribe {
+		position: absolute;
+		width: 350px;
+		height: 136px;
+		left: 50px;
+		top: 34px;
+		overflow: visible;
+	}
+	#Required_Field {
+		position: absolute;
+		width: 210px;
+		height: 40px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	.Rectangle_130 {
+		position: absolute;
+		overflow: visible;
+		width: 210px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Email_Address {
+		position: absolute;
+		left: 20px;
+		top: 11px;
+		overflow: visible;
+		width: 90px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#Excepteur_sint_occaecat_cupida {
+		position: absolute;
+		left: 0px;
+		top: 36px;
+		overflow: visible;
+		width: 331px;
+		height: 40px;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#Subscribe_to_AdobeXD_via_Email {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 217px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#Symbol_210___10 {
+		position: absolute;
+		width: 120px;
+		height: 40px;
+		left: 230px;
+		top: 96px;
+		overflow: visible;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 120px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#SUBSCRIBE {
+		position: absolute;
+		left: 31px;
+		top: 15px;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#_44_345_678_903_ADOBEXD_MAIL_C {
+		position: absolute;
+		left: 1234px;
+		top: 39px;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		line-height: 26px;
+		margin-top: -8px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(158,130,103,1);
+	}
+	#Info {
+		position: absolute;
+		width: 1920px;
+		height: 50px;
+		left: 0px;
+		top: 192px;
+		overflow: visible;
+	}
+	.Base_dn {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+	}
+	#__AdobeXD_Kit_2017 {
+		position: absolute;
+		left: 50px;
+		top: 20px;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	.Trac__1 {
+		overflow: visible;
+		position: absolute;
+		width: 7.311px;
+		height: 14px;
+		left: 1862px;
+		top: 18px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Trac__2 {
+		overflow: visible;
+		position: absolute;
+		width: 14px;
+		height: 11.355px;
+		left: 1818px;
+		top: 19px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Trac__3 {
+		overflow: visible;
+		position: absolute;
+		width: 14px;
+		height: 14px;
+		left: 1774px;
+		top: 18px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Nav_bar_7 {
+		position: absolute;
+		width: 1920px;
+		height: 106px;
+		left: 0px;
+		top: 972px;
+		overflow: visible;
+	}
+	.Base_dt {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 106px;
+		left: 0px;
+		top: 0px;
+	}
+	#Symbol_55___3 {
+		position: absolute;
+		width: 1851px;
+		height: 82px;
+		left: 47px;
+		top: 13px;
+		overflow: visible;
+	}
+	#HOME_ {
+		position: absolute;
+		left: 0px;
+		top: 23px;
+		overflow: visible;
+		width: 109px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 33px;
+		color: rgba(169,134,101,1);
+	}
+	#ANIMALS {
+		position: absolute;
+		left: 272px;
+		top: 23px;
+		overflow: visible;
+		width: 151px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 33px;
+		color: rgba(169,134,101,1);
+	}
+	#Associations {
+		position: absolute;
+		left: 553px;
+		top: 23px;
+		overflow: visible;
+		width: 206px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 33px;
+		color: rgba(169,134,101,1);
+	}
+	#AID {
+		position: absolute;
+		left: 913px;
+		top: 23px;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 33px;
+		color: rgba(169,134,101,1);
+	}
+	#Symbol_209___8 {
+		position: absolute;
+		width: 318px;
+		height: 82px;
+		left: 1533px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1_d {
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 82px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_IN__MON_ANIMAL_PREFERE {
+		position: absolute;
+		left: 55px;
+		top: 10px;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1.5vw;
+		color: rgba(169,134,101,1);
+	}
+	#Symbol_209___24 {
+		position: absolute;
+		width: 318px;
+		height: 82px;
+		left: 1134px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1_ea {
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 82px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP__MON_ANIMAL_PREFERE {
+		position: absolute;
+		left: 55px;
+		top: 13px;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1.5vw;
+		color: rgba(169,134,101,1);
+	}
+	#Text_d {
+		position: absolute;
+		width: 1186px;
+		height: 287px;
+		left: 367px;
+		top: 2044px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_d {
+		position: absolute;
+		left: 0px;
+		top: 99px;
+		overflow: visible;
+		width: 1187px;
+		height: 120px;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#LOREM_IPSUM_DOLOR_AMET_CONSECT_d {
+		position: absolute;
+		left: 0px;
+		top: 267px;
+		overflow: visible;
+		width: 1181px;
+		height: 20px;
+		line-height: 24px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(158,130,103,1);
+	}
+	#Procedure {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 183px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Georgia;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(158,130,103,1);
+	}
+
+
+@media(max-width: 768px){
+ p{
+    display: none;
+  }
+
+
+  #Ours
+  {
+    display: block;
+    float: right;
+    border: solid 2px #555;
+    padding: 2px;
+    margin: 20px 20px 20px 20px;
+    height: 180px;
+  }
+
+#Lion
+{
+  display: block;
+  float: right;
+  border: solid 2px #555;
+  padding: 2px;
+  margin: 20px 20px 20px 20px;
+  height: 180px;
+  }
+
+#Elephent
+{
+  display: block;
+  float: right;
+  border: solid 2px #555;
+  padding: 2px;
+  margin: 20px 20px 20px 20px;
+  height: 180px;
+  }
+
+  .h1{
+    color:blue;
+    margin-right: 10vw;
+  }
+  .header 
+  {
+    display: flex;
+    justify-content: space-between;   
+    background-color: #FEBC07;
+      height: 220px;  
+      margin: 15px 0px 0px 0px;  
+      
+    }
+  
+  .content 
+  {
+    display: flex;
+    justify-content: space-between;   
+    background-color: #FBF2C6;
+      height: 220px;   
+      margin: 20px 0px 0px 0px;
+      
+    }
+    
+  .sign-up 
+  {
+    display: flex;
+    justify-content: space-between;    
+    background-color: #F3F3F3;
+      height: 220px;  
+      margin: 20px 0px 0px 0px;
+      
+    }
+    
+  .feature-1 
+  { 
+    display: flex;
+      flex-direction: column; 
+      justify-content: space-around;
+      align-items: center;   
+
+    }
+  
+   #f
+   {
+     width: 100%;
+     height: auto;
+   }   
+  #AFPA
+  { 
+      border: solid 2px #555;
+      padding: 2px; 
+      width: 90%;
+      height: auto;      
+       
+    }
+  
+   #findus
+  {
+    width: 70%;
+    height: auto;
+    margin: 5vw 0 2.5vw 0;  
+  
+  
+    }
+    
+  #regForm
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 70%;
+    height: auto;
+    margin: 2.5vw 0 5vw 0;  
+  
+    }
+  
+    .tab
+    {
+      width: 100%;
+      height: auto;
+    }
+    
+  #nextBtn
+  {
+    display: flex;
+    justify-content: flex-end;
+   
+  }
+  footer
+   {
+    background-color: #B28A00;
+        height: 100px;        
+        display: flexbox;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: row;
+        font-size: 15px;
+        font-weight: normal;
+        margin: 20px 0px 0px 0px;
+    }
+  
+ 
+
+  
+  #RS
+  {    
+    display: block;
+    float: right;
+    border: solid 2px #555;
+    padding: 2px;
+    margin: 5px 5px 5px 5px;
+    } 
+
+}  */
+
